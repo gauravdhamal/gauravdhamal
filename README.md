@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **gauravdhamal.info@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XL9YXyiaxnCgdVV-P2Z9ImdN1PmnumS4/view?usp=sharing](https://drive.google.com/file/d/1XL9YXyiaxnCgdVV-P2Z9ImdN1PmnumS4/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gauravdhamal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gauravdhamal/" height="30" width="40" /></a>
