@@ -1,4 +1,4 @@
-[![MasterHead](https://images.hdqwalls.com/download/binary-code-minimalism-abstract-t1-1920x1080.jpg)](https://gauravdhamal.io)
+[![MasterHead](https://i.postimg.cc/y8df5xHX/Untitled-modified.png)](https://gauravdhamal.io)
 
 <h1 align="center">Hi 👋, I'm Gaurav Dhamal</h1>
 <h3 align="center">A passionate Java Backend Developer</h3>
