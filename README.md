@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Java Backend Developement**
 
-- 👨‍💻 All of my projects are available at [https://gauravdhamal.github.io/](gauravdhamal.github.io)
+- 👨‍💻 All of my projects are available at [gauravdhamal.github.io](https://gauravdhamal.github.io/)
 
 - 💬 Ask me about **Java, Spring Boot, JavaScript, HTML, CSS, MySQL**
 
