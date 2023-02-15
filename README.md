@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/35347777/144943077-952d450d-6d68-4135-8099-3dc8b589b761.gif" />
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravdhamal&label=Profile%20views&color=0e75b6&style=flat" alt="gauravdhamal" /> </p> -->
 
-- 🔭 I’m currently working on **SringBoot**
+- 🔭 I’m currently working on **Microservices**
 
 - 🌱 Learning **Java Backend Developement**
 
