@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, JavaScript, HTML, CSS, MySQL**
 
-- 📫 How to reach me **gauravdhamal.info@gmail.com**
+- 📫 How to reach me **gauravdhamal11@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/1/folders/1aVailb3oUWko44w1_V3AutWfCqk0yWWU)
 
