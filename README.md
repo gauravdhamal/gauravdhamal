@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [gauravdhamal.github.io](https://gauravdhamal.github.io/)
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, HTML, CSS, MySQL, Microservices.**
+- 💬 Ask me about **Java, Spring Boot, JavaScript, HTML, CSS, MySQL, Microservices, Spring Security.**
 
 - 📫 How to reach me **gauravdhamal11@gmail.com**
 
